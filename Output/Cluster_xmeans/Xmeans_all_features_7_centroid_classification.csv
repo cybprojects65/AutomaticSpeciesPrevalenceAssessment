@@ -1,0 +1,8 @@
+cluster,a,aloc,intrado,interdo,e,tr,trmo,
+0,M,M,H,L,L,H,M,medium
+1,H,M,M,M,M,M,M,medium
+2,H,L,M,L,L,M,M,milow
+3,H,L,L,L,L,L,M,low
+4,H,H,H,H,H,H,M,high
+5,H,H,H,H,H,H,M,high
+6,H,H,H,M,H,M,M,mihigh
