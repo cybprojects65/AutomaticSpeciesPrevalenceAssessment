@@ -6,9 +6,10 @@ The scripts are general enough to be applicable to any collection of species in 
 The methodology internally uses three model: Multi K-means (from [risk assessment models](https://github.com/cybprojects65/UnsupervisedMarineRiskAssessment)), X-means (clustering based on BIC), and a Variational Autoencoder (from the implementation in [this repository](https://github.com/cybprojects65/VariationalAutoencoder)). 
 
 The repository is organised as follows:
-1 - [Script](https://github.com/cybprojects65/AutomaticSpeciesPrevalenceAssessment/tree/main/Scripts) contains the entire sequence of scripts constituting the methodology  (from step 1 to 12)
-2 - [Input](https://github.com/cybprojects65/AutomaticSpeciesPrevalenceAssessment/tree/main/Input) contains an example of list of species from Italian wetlands (from the Ramsar Convention) for use in the models and the descriptions of the Italian wetlands as geospatial polygons.
-3 - [Features](https://github.com/cybprojects65/AutomaticSpeciesPrevalenceAssessment/tree/main/Features) contains  examples of aggregative features extracted for the species list, calculated from GBIF.
-4 - [Output](https://github.com/cybprojects65/AutomaticSpeciesPrevalenceAssessment/tree/main/Output) contains output examples from the models involved.
-5 - [Model Assessments](https://github.com/cybprojects65/AutomaticSpeciesPrevalenceAssessment/tree/main/Model%20Assessments) contains species commonness assessments by the three models, aligned in one comparison table.
-6 - [Expert Assessments](https://github.com/cybprojects65/AutomaticSpeciesPrevalenceAssessment/tree/main/Expert%20Assessments) contains species commonness assessments by two experts of the Massaciuccoli Lake basin, in Tuscany, who evaluated the assessments by the models.
+
+1. [Script](https://github.com/cybprojects65/AutomaticSpeciesPrevalenceAssessment/tree/main/Scripts) contains the entire sequence of scripts constituting the methodology  (from step 1 to 12)
+2. [Input](https://github.com/cybprojects65/AutomaticSpeciesPrevalenceAssessment/tree/main/Input) contains an example of list of species from Italian wetlands (from the Ramsar Convention) for use in the models and the descriptions of the Italian wetlands as geospatial polygons.
+3. [Features](https://github.com/cybprojects65/AutomaticSpeciesPrevalenceAssessment/tree/main/Features) contains  examples of aggregative features extracted for the species list, calculated from GBIF.
+4. [Output](https://github.com/cybprojects65/AutomaticSpeciesPrevalenceAssessment/tree/main/Output) contains output examples from the models involved.
+5. [Model Assessments](https://github.com/cybprojects65/AutomaticSpeciesPrevalenceAssessment/tree/main/Model%20Assessments) contains species commonness assessments by the three models, aligned in one comparison table.
+6. [Expert Assessments](https://github.com/cybprojects65/AutomaticSpeciesPrevalenceAssessment/tree/main/Expert%20Assessments) contains species commonness assessments by two experts of the Massaciuccoli Lake basin, in Tuscany, who evaluated the assessments by the models.
